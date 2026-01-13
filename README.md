@@ -1,6 +1,4 @@
-# Credit-Scoring-Prediction-Model
-
-# Credit Risk Modeling (Lending Club)
+# Credit-Scoring-Prediction-Model (Lending Club)
 
 ## Problem Statement
 Develop a binary classification model to predict loan default (Good vs Bad) using historical loan application data, with a focus on ranking borrowers by credit risk under class imbalance.
